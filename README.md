@@ -9,4 +9,7 @@
 * [ ] fsggdg
 * [ ] dsggsdgs
 * [ ] gdsghshf
-* [ ]  
+
+# Эмоции
+:yum: Я поел
+:sunglasses: Сегодня лето  
